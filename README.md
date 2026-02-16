@@ -2,7 +2,8 @@
 
 A terminal-based Pokémon application built with Node.js and TypeScript, powered by the PokeAPI. It allows users to explore locations, catch and inspect Pokémon, and manage a personal Pokedex with an in-memory caching system for better performance. Built as part of the Boot.dev Backend Roadmap.
 
-
+----
+[![Boot.dev Backend Certificate](https://img.shields.io/badge/Boot.dev-Backend%20Certified-blue)](https://www.boot.dev/certificates/24b63348-4eea-4d5d-a1e2-6374f16fc9b0)
 ---
 ## 🚀 Features
 
@@ -86,5 +87,4 @@ Closing the Pokedex... Goodbye!
 npm install
 npm run dev
 ```
-----
-[![Boot.dev Backend Certificate](https://img.shields.io/badge/Boot.dev-Backend%20Certified-blue)](https://www.boot.dev/certificates/24b63348-4eea-4d5d-a1e2-6374f16fc9b0)
+
