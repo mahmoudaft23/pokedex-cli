@@ -26,13 +26,15 @@ This project allows users to explore Pokémon locations, catch Pokémon, inspect
 - PokeAPI  
 
 ---
-##📌 Example Commands
-map
-explore pastoria-city-area
-catch pikachu
-inspect pikachu
-pokedex
-exit
+## 📌 Example Commands
+
+- `map`
+- `explore pastoria-city-area`
+- `catch pikachu`
+- `inspect pikachu`
+- `pokedex`
+- `exit`
+
 
 ---
 ## ▶ Run the Project
