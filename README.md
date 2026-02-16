@@ -1,11 +1,9 @@
 # 🧭 Pokedex CLI
 
-A terminal-based Pokémon application built with **Node.js** and **TypeScript**, powered by the **PokeAPI**.
+A terminal-based Pokémon application built with Node.js and TypeScript, powered by the PokeAPI. It allows users to explore locations, catch and inspect Pokémon, and manage a personal Pokedex with an in-memory caching system for better performance. Built as part of the Boot.dev Backend Roadmap.
 
-This project allows users to explore Pokémon locations, catch Pokémon, inspect their stats, and maintain a personal Pokedex — with a custom in-memory caching system for improved performance.
 
 ---
-
 ## 🚀 Features
 
 - Browse location areas (`map`, `mapb`)
@@ -87,3 +85,6 @@ Closing the Pokedex... Goodbye!
 ```bash
 npm install
 npm run dev
+```
+----
+[![Boot.dev Backend Certificate](https://img.shields.io/badge/Boot.dev-Backend%20Certified-blue)](https://www.boot.dev/certificates/24b63348-4eea-4d5d-a1e2-6374f16fc9b0)
